@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "馬と鹿",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-12T05:57:57.238746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_馬と鹿_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_馬と鹿_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_馬と鹿_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_馬と鹿_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_馬と鹿_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_馬と鹿_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/07_馬と鹿_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/08_馬と鹿_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/09_馬と鹿_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_馬と鹿_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "馬と鹿 (Uma to Shika)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/11_馬と鹿_(Uma_to_Shika)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/12_馬と鹿_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "馬と鹿 / Uma to Shika",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_馬と鹿___Uma_to_Shika_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "馬と鹿 - Uma to Shika",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/14_馬と鹿_-_Uma_to_Shika_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_馬と鹿_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "馬と鹿",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_10_馬と鹿_米津玄師.txt"
+    }
+  ]
+}
